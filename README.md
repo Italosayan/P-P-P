@@ -7,6 +7,4 @@ Our R code: http://htmlpreview.github.io/?https://github.com/Italosayan/P-P-P/bl
 
 Pdf Presentation: https://github.com/Italosayan/P-P-P/blob/master/Crime%20Pattern%20Prediction.pdf
 
-https://github.com/Italosayan/P-P-P/
-
 ![alt text](https://raw.githubusercontent.com/Italosayan/P-P-P/master/Heatmap_Screenshot.PNG)
