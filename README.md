@@ -9,7 +9,7 @@ Pdf Presentation: https://github.com/Italosayan/P-P-P/blob/master/Crime%20Patter
 
 ![alt text](https://raw.githubusercontent.com/Italosayan/P-P-P/master/Heatmap_Screenshot.PNG)
 
-Contributors:
+*Contributors:*
 
 Italo Sayan: ixs3409@rit.edu
 Nathan Raw: nxr9266@rit.edu
