@@ -1,6 +1,11 @@
 from flask import Flask, render_template, url_for, request, flash, redirect, session, jsonify
 import pandas as pd
 
+'''
+NOTE: Make sure "crimedata.csv" is in the same
+directory as this file. Make sure column names for latitude
+and longitude are the same as listed in the homepage method.
+'''
 app = Flask(__name__)
 
 @app.route("/", methods=["GET", "POST"])
