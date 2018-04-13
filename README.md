@@ -11,6 +11,8 @@ Web App code : https://github.com/Italosayan/P-P-P/tree/master/MapApp
 
 Download visualization of the San Antonio dataset: https://github.com/Italosayan/P-P-P/blob/master/crimedataset.mov
 
+Mohler's explanation: https://vimeo.com/50315082
+
 ![alt text](https://raw.githubusercontent.com/Italosayan/P-P-P/master/Heatmap_Screenshot.PNG)
 
 *Contributors:*
