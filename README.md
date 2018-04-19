@@ -13,15 +13,15 @@ Download visualization of the San Antonio dataset: https://github.com/Italosayan
 
 Mohler's explanation: https://vimeo.com/50315082
 
-G Function Distribution:
+G Function Distribution San Antonio Data:
 
 ![](https://github.com/Italosayan/P-P-P/blob/master/Rplot.png)
 
-U Function Distribution:
+U Function Distribution San Antonio Data:
 
 ![](https://github.com/Italosayan/P-P-P/blob/master/Rplot01.png)
 
-Lambda Function Distribution:
+Lambda Function Distribution San Antonio Data:
 
 ![](https://github.com/Italosayan/P-P-P/blob/master/Rplot02.png)
 
