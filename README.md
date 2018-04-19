@@ -21,6 +21,9 @@ U Function Distribution:
 
 ![](https://github.com/Italosayan/P-P-P/blob/master/Rplot01.png)
 
+Lambda function distribution:
+
+
 Google API Visualization
 
 ![alt text](https://raw.githubusercontent.com/Italosayan/P-P-P/master/Heatmap_Screenshot.PNG)
