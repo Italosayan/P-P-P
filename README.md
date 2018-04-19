@@ -21,7 +21,7 @@ U Function Distribution:
 
 ![](https://github.com/Italosayan/P-P-P/blob/master/Rplot01.png)
 
-Lambda function distribution:
+Lambda Function Distribution:
 
 ![](https://github.com/Italosayan/P-P-P/blob/master/Rplot02.png)
 
