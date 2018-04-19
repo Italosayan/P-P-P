@@ -13,11 +13,11 @@ Download visualization of the San Antonio dataset: https://github.com/Italosayan
 
 Mohler's explanation: https://vimeo.com/50315082
 
-G function distribution:
+G Function Distribution:
 
 ![](https://github.com/Italosayan/P-P-P/blob/master/Rplot.png)
 
-U function distribution:
+U Function Distribution:
 
 ![](https://github.com/Italosayan/P-P-P/blob/master/Rplot01.png)
 
