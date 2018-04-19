@@ -15,7 +15,11 @@ Mohler's explanation: https://vimeo.com/50315082
 
 G function distribution:
 
+![](https://github.com/Italosayan/P-P-P/blob/master/Rplot.png)
+
 U function distribution:
+
+![](https://github.com/Italosayan/P-P-P/blob/master/Rplot01.png)
 
 Google API Visualization
 
