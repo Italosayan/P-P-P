@@ -13,6 +13,10 @@ Download visualization of the San Antonio dataset: https://github.com/Italosayan
 
 Mohler's explanation: https://vimeo.com/50315082
 
+G function distribution:
+
+U function distribution:
+
 Google API Visualization
 
 ![alt text](https://raw.githubusercontent.com/Italosayan/P-P-P/master/Heatmap_Screenshot.PNG)
