@@ -1,6 +1,7 @@
 # P-P-P
 Point process prediction for mortals
-Submission for STEAM prize:Center of Public Initiatives
+
+Submission for STEAM prize: Center of Public Initiatives
 
 Introduction:
 
