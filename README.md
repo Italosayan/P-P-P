@@ -1,5 +1,9 @@
 # P-P-P
 Point process prediction for mortals
+Submission for STEAM prize:Center of Public Initiatives
+
+Introduction:
+Burglaries, earthquakes, and tweets all have a particular characteristic in common.  The occurrenceof one event increases the probability of subsequent events.  Earthquakes can produce aftershocks,tweets can produce subsequent re-tweets, and burglaries follow the same behavior.  Academic effortshave shown that a burglary elevates the risk of another burglary occurring in nearby areas .Epidemic type aftershock sequence(ETAS) models have already been adapted from seismology toproduce habitation burglary prediction models.  In criminology, they are known as Self ExcitingPoint Processes(SEPP) models.  Crimes, earthquakes, and tweets all follow self exciting behavior.Thus, it is possible to leverage previous literature to implement a tool for police departments.  Butwe have not found an open source implementation of the new technology.
 
 UCLA Statistics work: http://www.stat.ucla.edu/~frederic/papers/crime1.pdf
 
