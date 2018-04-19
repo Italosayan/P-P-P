@@ -24,6 +24,7 @@ U Function Distribution:
 Lambda function distribution:
 
 ![](https://github.com/Italosayan/P-P-P/blob/master/Rplot02.png)
+
 We choose the points with the highest lambda value as the risky
 
 Google API Visualization
