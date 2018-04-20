@@ -1,7 +1,7 @@
 # P-P-P
 Point process prediction for mortals
 
-Submission for [STEAM](https://www.rit.edu/cla/criminaljustice/cpsi/steam-prize) prize: Center of Public Initiatives
+Submission for [STEAM](https://www.rit.edu/cla/criminaljustice/cpsi/steam-prize) : Center of Public Initiatives
 
 Introduction:
 
