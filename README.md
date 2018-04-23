@@ -1,7 +1,7 @@
 # P-P-P
 Point process prediction for mortals
 
-Silver Prize Winner for [STEAM](https://www.rit.edu/cla/criminaljustice/cpsi/steam-prize) : Center of Public Initiatives
+Silver Medal Winner for [STEAM](https://www.rit.edu/cla/criminaljustice/cpsi/steam-prize) : Center of Public Initiatives
 
 Introduction:
 
