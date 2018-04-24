@@ -33,7 +33,7 @@ Lambda Function Distribution San Antonio Data:
 
 ![](https://github.com/Italosayan/P-P-P/blob/master/Rplot02.png)
 
-We choose the points with the highest lambda value as the risky
+We choose the points with the highest lambda value as the risky ones.
 
 Google API Visualization
 
