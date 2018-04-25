@@ -58,8 +58,11 @@
 
       function initMap() {
         map = new google.maps.Map(document.getElementById('map'), {
+          //Set a default zoom level
           zoom: 13,
+          //Set the center to be the center of San Antonio
           center: {lat: 29.448476, lng: -98.506172},
+          //Set the map type to satellite
           mapTypeId: 'satellite'
         });
 
@@ -103,18 +106,15 @@
 
       // Heatmap data: 500 Points
       function getPoints() {
-
+        //Read in data from flask app
       	data_in = {{data_in | safe}};
-
+        //Create array for holding our points
       	points = [];
-
-      	console.log("POINTS");
-      	console.log(data_in[0]);
-
+        //Loop through data and set latitude, longitude, and self exciting weights
       	for (i in data_in){
-      		points.push(new google.maps.LatLng(data_in[i][0], data_in[i][1]));
+      		points.push({location: new google.maps.LatLng(data_in[i][0], data_in[i][1]), weight: data_in[i][2]});
       	}
- 		
+
  		return points;
       }
     </script>
