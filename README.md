@@ -23,21 +23,21 @@ Mohler's explanation: https://vimeo.com/50315082
 
 G Function Distribution San Antonio Data:
 
-![](https://github.com/Italosayan/P-P-P/blob/master/Rplot.png)
+![](https://github.com/Italosayan/P-P-P/blob/master/Graphics/Rplot.png)
 
 U Function Distribution San Antonio Data:
 
-![](https://github.com/Italosayan/P-P-P/blob/master/Rplot01.png)
+![](https://github.com/Italosayan/P-P-P/blob/master/Graphics/Rplot01.png)
 
 Lambda Function Distribution San Antonio Data:
 
-![](https://github.com/Italosayan/P-P-P/blob/master/Rplot02.png)
+![](https://github.com/Italosayan/P-P-P/blob/master/Graphics/Rplot02.png)
 
 We choose the points with the highest lambda value as the risky ones.
 
 Google API Visualization
 
-![alt text](https://raw.githubusercontent.com/Italosayan/P-P-P/master/Heatmap_Screenshot.PNG)
+![](https://github.com/Italosayan/P-P-P/blob/master/Graphics/MappApp_Example.gif)
 
 *Contributors:*
 
@@ -46,4 +46,4 @@ Nathan Raw: nxr9266@rit.edu
 
 Extra Visualization(Carto):
 
-![](https://github.com/Italosayan/P-P-P/blob/master/crimedataset%20(1).gif)
+![](https://github.com/Italosayan/P-P-P/blob/master/Graphics/crimedataset%20(1).gif)
