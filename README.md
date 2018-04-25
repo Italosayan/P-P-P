@@ -11,13 +11,15 @@ Self Exciting Point Processes(SEPP) models are built with this behavior in mind.
 
 UCLA Statistics work: http://www.stat.ucla.edu/~frederic/papers/crime1.pdf
 
-Our R code: http://htmlpreview.github.io/?https://github.com/Italosayan/P-P-P/blob/master/final_analysis.html
+Our Report: https://github.com/Italosayan/P-P-P/blob/master/Burglary%20Pattern%20Prediction%20Report.pdf
 
-Slides Presentation: https://github.com/Italosayan/P-P-P/blob/master/Crime%20Pattern%20Prediction.pdf
+Our R code: http://htmlpreview.github.io/?https://github.com/Italosayan/P-P-P/blob/master/Analysis_Code/final_analysis.html
+
+Slides Presentation: https://github.com/Italosayan/P-P-P/blob/master/Crime%20Pattern%20Prediction%20Presentation.pdf
 
 Web App code : https://github.com/Italosayan/P-P-P/tree/master/MapApp
 
-Download visualization of the San Antonio dataset: https://github.com/Italosayan/P-P-P/blob/master/crimedataset.mov
+Download visualization of the San Antonio dataset: https://github.com/Italosayan/P-P-P/blob/master/Graphics/crimedataset.mov
 
 Mohler's explanation: https://vimeo.com/50315082
 
@@ -37,7 +39,7 @@ We choose the points with the highest lambda value as the risky ones.
 
 Google API Visualization
 
-![](https://github.com/Italosayan/P-P-P/blob/master/Graphics/MappApp_Example.gif)
+![](https://github.com/Italosayan/P-P-P/blob/master/Graphics/MapApp_Example.gif)
 
 *Contributors:*
 
