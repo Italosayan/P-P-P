@@ -39,7 +39,7 @@ Lambda Function Distribution San Antonio Data:
 
 We choose the points with the highest lambda value as the risky ones.
 
-Google API Visualization
+Our UI:
 
 ![](https://github.com/Italosayan/P-P-P/blob/master/Graphics/MapApp_Example.gif)
 
