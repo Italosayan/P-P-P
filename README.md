@@ -1,7 +1,7 @@
 # P-P-P
 Point process prediction for mortals :shipit:
 
-Silver Medal Winner for [STEAM](https://www.rit.edu/cla/criminaljustice/cpsi/steam-prize) : Center of Public Initiatives :tada: :tada: :confetti_ball: [RIT_NEWS] http://www.rit.edu/news/story.php?id=66780
+Silver Medal Winner for [STEAM](https://www.rit.edu/cla/criminaljustice/cpsi/steam-prize) : Center of Public Initiatives :tada: :tada: :confetti_ball: [RIT_NEWS] (http://www.rit.edu/news/story.php?id=66780)
 ## Introduction
 
 Burglaries, earthquakes, and tweets all have a particular characteristic in common.  The occurrence of one event increases the probability of subsequent events.  Earthquakes can produce aftershocks,tweets can produce subsequent re-tweets, and burglaries follow the same behavior.  
