@@ -53,5 +53,6 @@ Extra Visualization(Carto):
 ## *Contributors:*
 
 Italo Sayan: ixs3409@rit.edu
+
 Nathan Raw: nxr9266@rit.edu
 
