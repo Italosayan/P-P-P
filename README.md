@@ -1,8 +1,7 @@
 # P-P-P
 Point process prediction for mortals :shipit:
 
-Silver Medal Winner for [STEAM](https://www.rit.edu/cla/criminaljustice/cpsi/steam-prize) $2500 Prize! 
-Center of Public Initiatives :tada: :tada: :confetti_ball: 
+Silver Medal Winner for [STEAM](https://www.rit.edu/cla/criminaljustice/cpsi/steam-prize) $2500 Prize! :tada: :tada: :confetti_ball: 
 
 [Imagine RIT](https://www.rit.edu/cla/criminaljustice/sites/rit.edu.cla.criminaljustice/files/images/Winner%20poster.pdf)
 
