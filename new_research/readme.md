@@ -1,4 +1,4 @@
-## Breaking the state of the art
+## Breaking the State of the Art
 
 [Past NIJ Winner](https://arxiv.org/pdf/1801.02858.pdf)
 
