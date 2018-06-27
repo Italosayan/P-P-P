@@ -1,7 +1,9 @@
 ## Breaking the state of the art
 
 [Past NIJ Winner](https://arxiv.org/pdf/1801.02858.pdf)
+
 [Adding covariate to hawkes(SEPP)](https://arxiv.org/pdf/1708.03579.pdf)
+
 [Using Deep Learning](https://arxiv.org/abs/1711.08833v1)
 [Other DL spatio temporal process](https://arxiv.org/pdf/1705.09851.pdf)
 [Original ST-ResNet Paper](https://arxiv.org/abs/1611.02155)
