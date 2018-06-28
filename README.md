@@ -12,6 +12,13 @@ Burglaries, earthquakes, and tweets all have a particular characteristic in comm
 
 Self Exciting Point Processes(SEPP) models are built with this behavior in mind.  This is an open source implementation of SEPP technology for police departments.
 
+## How to use it?
+1.Find crime date of your city.
+
+2.Import to R studio.
+
+3.Run our [code](http://htmlpreview.github.io/?https://github.com/Italosayan/P-P-P/blob/master/Analysis_Code/final_analysis.html)
+
 ## Helpful Links
 UCLA Statistics work: http://www.stat.ucla.edu/~frederic/papers/crime1.pdf
 
