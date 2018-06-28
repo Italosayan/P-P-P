@@ -1,5 +1,5 @@
 # P-P-P
-Point process prediction for mortals :shipit:
+Spatio-Temporal Modeling with R:Point process prediction for mortals :shipit:
 
 Silver Medal Winner for [STEAM](https://www.rit.edu/cla/criminaljustice/cpsi/steam-prize) $2500 Prize! :tada: :tada: :confetti_ball: 
 
