@@ -15,7 +15,7 @@ Self Exciting Point Processes(SEPP) models are built with this behavior in mind.
 ## How to use it?
 1.Find crime data of your city. [Example](https://data-rpdny.opendata.arcgis.com/datasets/rpd-part-i-crime-2011-to-present)
 
-2.Import to R studio.
+2.Import to data to R.
 
 3.Run our [code](http://htmlpreview.github.io/?https://github.com/Italosayan/P-P-P/blob/master/Analysis_Code/final_analysis.html)
 
