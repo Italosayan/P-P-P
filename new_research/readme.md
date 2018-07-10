@@ -1,8 +1,10 @@
-## Breaking the State of the Art
+# Breaking the State of the Art
+
+### Improving crime prediction papers
 
 [Past NIJ Winner](https://arxiv.org/pdf/1801.02858.pdf)
 
-[Adding covariate to hawkes(SEPP)](https://arxiv.org/pdf/1708.03579.pdf)
+[Adding covariate(AVL Data) to hawkes(SEPP)](https://arxiv.org/pdf/1708.03579.pdf)
 
 [Using Deep Learning](https://arxiv.org/abs/1711.08833v1)
 
@@ -15,6 +17,10 @@
 [ST-ResNet Matlab Code](https://github.com/feichtenhofer/st-resnet)
 
 [ST-ResNet Python](https://github.com/lucktroy/DeepST/blob/master/deepst/models/STResNet.py)
+
+### Benchmarking methods
+
+[Past NIJ Winner](https://arxiv.org/pdf/1801.02858.pdf)
 
 [PAI Chainey](https://www.e-education.psu.edu/geog884/sites/www.e-education.psu.edu.geog884/files/image/lesson2/Chainey%20et%20al.%20(2008).pdf)
 
