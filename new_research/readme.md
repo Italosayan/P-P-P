@@ -20,7 +20,7 @@
 
 ### Benchmarking methods
 
-[Past NIJ Winner](https://arxiv.org/pdf/1801.02858.pdf)
+[Spatio-Temporal cross validation ](https://arxiv.org/pdf/1801.02858.pdf)
 
 [PAI Chainey](https://www.e-education.psu.edu/geog884/sites/www.e-education.psu.edu.geog884/files/image/lesson2/Chainey%20et%20al.%20(2008).pdf)
 
