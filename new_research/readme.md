@@ -39,3 +39,5 @@
 [fiona vector manipulatio](http://toblerity.org/fiona/)
 
 [shapely geometric operations](https://shapely.readthedocs.io/en/latest/)
+
+[list of libraries](https://carsonfarmer.com/2013/07/essential-python-geo-libraries/)
