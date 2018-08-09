@@ -29,3 +29,11 @@
 [Modifiable areal Unit](https://www.ncjrs.gov/App/Publications/abstract.aspx?ID=272536)
 
 [Metric Comparison](https://www.tandfonline.com/doi/abs/10.1080/07418825.2014.904393)
+
+### Sofware
+
+[Pythonic Life](https://kjordahl.github.io/SciPy-Tutorial-2015/#1)
+
+[geopandas](http://geopandas.org/)
+
+[fiona](http://toblerity.org/fiona/)
