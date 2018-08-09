@@ -36,4 +36,6 @@
 
 [geopandas](http://geopandas.org/)
 
-[fiona](http://toblerity.org/fiona/)
+[fiona vector manipulatio](http://toblerity.org/fiona/)
+
+[shapely geometric operations](https://shapely.readthedocs.io/en/latest/)
