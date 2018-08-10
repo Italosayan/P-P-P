@@ -41,3 +41,7 @@
 [shapely geometric operations](https://shapely.readthedocs.io/en/latest/)
 
 [list of libraries](https://carsonfarmer.com/2013/07/essential-python-geo-libraries/)
+
+[geopandas sage](http://nbviewer.jupyter.org/github/jorisvandenbossche/talks/blob/master/2017_EuroScipy_geopandas/geopandas_demo.ipynb)
+
+[geopandas sage video](https://archive.fosdem.org/2018/schedule/event/geopandas/)
