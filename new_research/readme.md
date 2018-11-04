@@ -45,3 +45,5 @@
 [geopandas sage](http://nbviewer.jupyter.org/github/jorisvandenbossche/talks/blob/master/2017_EuroScipy_geopandas/geopandas_demo.ipynb)
 
 [geopandas sage video](https://archive.fosdem.org/2018/schedule/event/geopandas/)
+
+for coordinates in new research get boundarie from create grid in qgis in a projected system(pseudo mercator)
