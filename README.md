@@ -19,6 +19,14 @@ Self Exciting Point Processes(SEPP) models are built with this behavior in mind.
 
 3.Run our [code](http://htmlpreview.github.io/?https://github.com/Italosayan/P-P-P/blob/master/Analysis_Code/final_analysis.html)
 
+Our UI:
+
+![](https://github.com/Italosayan/P-P-P/blob/master/Graphics/MapApp_Example.gif)
+
+Extra Visualization(Carto):
+
+![](https://github.com/Italosayan/P-P-P/blob/master/Graphics/crimedataset%20(1).gif)
+
 ## Helpful Links
 UCLA Statistics work: http://www.stat.ucla.edu/~frederic/papers/crime1.pdf
 
@@ -48,14 +56,6 @@ Lambda Function Distribution San Antonio Data:
 ![](https://github.com/Italosayan/P-P-P/blob/master/Graphics/Rplot02.png)
 
 We choose the points with the highest lambda value as the risky ones.
-
-Our UI:
-
-![](https://github.com/Italosayan/P-P-P/blob/master/Graphics/MapApp_Example.gif)
-
-Extra Visualization(Carto):
-
-![](https://github.com/Italosayan/P-P-P/blob/master/Graphics/crimedataset%20(1).gif)
 
 ## *Contributors:*
 
