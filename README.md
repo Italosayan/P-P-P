@@ -17,7 +17,7 @@ Self Exciting Point Processes(SEPP) models are built with this behavior in mind.
 
 2.Import data to R.
 
-3.Run our [code](http://htmlpreview.github.io/?https://github.com/Italosayan/P-P-P/blob/master/Analysis_Code/final_analysis.html)
+3.Run our [code](https://github.com/Italosayan/P-P-P/blob/master/final_analysis.pdf)
 
 Our UI:
 
