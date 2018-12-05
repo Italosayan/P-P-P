@@ -46,9 +46,11 @@
 
 [geopandas sage video](https://archive.fosdem.org/2018/schedule/event/geopandas/)
 
-for coordinates in new research get boundarie from create grid in qgis in a projected system(pseudo mercator)
+for coordinates in new research get boundaried from create grid in qgis in a projected system(pseudo mercator)
+
+
 conda config --add channels conda-forge
-conda create --name dank python=3.5
+conda create --name space python=3.5
 conda activate space
 conda install -c conda-forge gdal
 conda install -c conda-forge geopandas
