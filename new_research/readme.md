@@ -2,6 +2,8 @@
 
 ### Improving crime prediction papers
 
+[Cool Science EarthQuake Article](https://www.nature.com/articles/s41586-018-0438-y)
+
 [Past NIJ Winner](https://arxiv.org/pdf/1801.02858.pdf)
 
 [Adding covariate(AVL Data) to hawkes(SEPP)](https://arxiv.org/pdf/1708.03579.pdf)
