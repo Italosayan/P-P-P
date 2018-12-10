@@ -10,7 +10,7 @@ Silver Medal Winner for [STEAM](https://www.rit.edu/cla/criminaljustice/cpsi/ste
 
 Burglaries, earthquakes, and tweets all have a particular characteristic in common.  The occurrence of one event increases the probability of subsequent events.  Earthquakes can produce aftershocks,tweets can produce subsequent re-tweets, and burglaries follow the same behavior.  
 
-Self Exciting Point Processes(SEPP) models are built with this behavior in mind.  This is an open source implementation of SEPP technology for police departments.
+Self Exciting Point Processes(SEPP) models are built with this behavior in mind and they have been tested to be 1.5 - 2.2 times [more accurate](https://cloudfront.escholarship.org/dist/prd/content/qt1br4975j/qt1br4975j.pdf) than previous approaches.  This is an open source implementation of SEPP technology for police departments.
 
 ## How to use it?
 1.Find crime data of your city. [Example](https://data-rpdny.opendata.arcgis.com/datasets/rpd-part-i-crime-2011-to-present)
