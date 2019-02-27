@@ -57,4 +57,7 @@ conda create --name space python=3.5
 conda activate space
 conda install -c conda-forge gdal
 conda install -c conda-forge geopandas
+sudo apt-get update
+sudo apt-get install libssl1.0.0 libssl-dev
+conda install -c conda-forge rasterio fiona
  ```
