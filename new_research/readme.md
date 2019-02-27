@@ -53,11 +53,6 @@ for coordinates in new research get boundaried from create grid in qgis in a pro
 Enviroment set up:
 ```
 conda config --add channels conda-forge
-conda create --name space python=3.5
+conda create -n space -c conda-forge python=3.5 geopandas --yes
 conda activate space
-conda install -c conda-forge gdal
-conda install -c conda-forge geopandas
-sudo apt-get update
-sudo apt-get install libssl1.0.0 libssl-dev
-conda install -c conda-forge rasterio fiona
  ```
