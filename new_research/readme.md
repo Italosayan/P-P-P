@@ -56,3 +56,4 @@ conda config --add channels conda-forge
 conda create -n space -c conda-forge python=3.5 geopandas --yes
 conda activate space
  ```
+https://lutraconsulting.github.io/qgis-mac-packager/
