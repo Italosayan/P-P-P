@@ -6,9 +6,11 @@ Silver Medal Winner for [STEAM](https://www.rit.edu/cla/criminaljustice/cpsi/ste
 [Imagine RIT](https://www.rit.edu/cla/criminaljustice/sites/rit.edu.cla.criminaljustice/files/images/Winner%20poster.pdf)
 
 [RIT NEWS](http://www.rit.edu/news/story.php?id=66780)
-## Introduction
 
 [Code for Project](https://italosayan.github.io/P-P-P/)
+
+## Introduction
+
 
 Burglaries, earthquakes, and tweets all have a particular characteristic in common.  The occurrence of one event increases the probability of subsequent events.  Earthquakes can produce aftershocks,tweets can produce subsequent re-tweets, and burglaries follow the same behavior.  
 
