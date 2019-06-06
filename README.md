@@ -1,13 +1,13 @@
 # P-P-P
 Spatio-Temporal Modeling: Point process prediction for mortals :shipit:
 
-Silver Medal Winner for [STEAM](https://www.rit.edu/cla/criminaljustice/cpsi/steam-prize) $2500 Prize! :tada: :tada: :confetti_ball: 
-
-[Imagine RIT](https://www.rit.edu/liberalarts/sites/rit.edu.liberalarts/files/documents/our-work/Winner%20poster.pdf)
+Silver Medal Winner for STEAM $2500 Prize! :tada: :tada: :confetti_ball: 
 
 [RIT NEWS](http://www.rit.edu/news/story.php?id=66780)
 
 [Code for Project](https://italosayan.github.io/P-P-P/)
+
+[Imagine RIT](https://www.rit.edu/liberalarts/sites/rit.edu.liberalarts/files/documents/our-work/Winner%20poster.pdf)
 
 ## Introduction
 
